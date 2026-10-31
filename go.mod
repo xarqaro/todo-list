@@ -1,4 +1,4 @@
-module github.com/MagaSu/todo-list
+module github.com/xarqaro/todo-list
 
 go 1.27.1
 
